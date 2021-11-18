@@ -1,6 +1,7 @@
 import requests
+import os
 
-from secrets import SECRET_API_KEY
+SECRET_API_KEY = os.getenv('SECRET_API_KEY')
 
 BASE_URL = 'https://amazing_api.com'
 
