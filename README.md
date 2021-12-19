@@ -1,5 +1,7 @@
 # Tree Slayer
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lpmi-13/tree-slayer)
+
 Have you ever wondered about the deep git magicks...?
 
 Have you ever heard about git's ability to delete a file across the entire git history in a recursive rebase-like fashion...?
